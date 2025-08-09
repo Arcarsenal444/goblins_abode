@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+archive/
+game_files/
+Lib/
+Scripts/
+to_do_doc/
+4x4.jpg
+4x5.jpg
+app.log
+SCRATCH_battle_scenario.py
